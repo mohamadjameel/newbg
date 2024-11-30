@@ -1,2 +1,0 @@
-# newbg
-#hello read me 
